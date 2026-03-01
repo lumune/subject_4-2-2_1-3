@@ -1,16 +1,15 @@
 # subject_4-2-2_1-3
 
-# Google Meet Link Generator (Python)
+提出用課題
+4-2-2 API連携実践課題
+1-3. Google ミート
 
-Google Calendar API を利用して、  
-Google Meet付きのイベントを自動生成し、  
-Meet参加リンクを出力するPythonスクリプトです。
 
----
+Google ミート 課題1-3
 
 ## 📌 概要
 
-本プロジェクトは、Google Calendar APIを使用し、
+Google Calendar APIを使用し、
 Google Meetリンク付きのイベントを自動作成するスクリプトです。
 
 Meet単体APIではリンク生成ができないため、
