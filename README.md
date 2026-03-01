@@ -62,7 +62,7 @@ project/
 ├── token.json             # 認証トークン（自動生成・非公開）
 ```
 
-※ credentials.json / token.json は GitHub に公開しないでください。
+※ credentials.json / token.json は GitHub に公開しない。
 
 ---
 
@@ -123,15 +123,3 @@ python create_meet_cli.py
 4. Meetリンク生成
 5. hangoutLink取得・出力
 
----
-
-## 💡 設計意図
-
-まずは課題要件を満たす最小構成を実装し、
-その後、実用性を高めるためにCLI版へ拡張しました。
-
-API連携では
-
-「まず動かす → その後拡張する」
-
-という開発プロセスを意識しています。
